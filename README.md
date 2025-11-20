@@ -1,5 +1,6 @@
  HEAD
 # Kottster
+ [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ZXY1109/kottster2)
 
  ####项目简介
 本项目搭建轻量图形识别数据管理系统，以MySQL构建分类、样本、特征表存储图形信息，结合Kottster实现可视化管理，解决图形数据分散问题，支撑教学、工业检测等场景的图形识别数据需求，已完成库表搭建与工具对接。
